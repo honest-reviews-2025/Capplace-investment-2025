@@ -10,6 +10,7 @@ Entering the world of trading in 2025, I was searching for a platform that could
 
 Capplace stands out as a modern CFD trading platform that successfully bridges the gap between beginner accessibility and professional trading capabilities. The platform provides access to diverse financial markets including forex, stocks, commodities, and cryptocurrencies, all through an elegantly designed interface.
 
+![Capplace review investing](https://github.com/honest-reviews-2025/TradeEU-Global-review-2025/blob/7470fac63b109ee21d3415e6dfbe10991bbd471b/TradeEU-Global-logo.png)
 ```markdown
 ### Outstanding Platform Features
 - **Intuitive user interface** that makes trading enjoyable and stress-free
